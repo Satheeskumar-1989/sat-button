@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = {
-  name: 'syncfusion-ember'
+  name: 'sat-button'
 };

@@ -4,7 +4,7 @@
   "description": "The default blueprint for ember-cli addons.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/syncfusion/sat-button.git"
+    "url": "https://github.com/Satheeskumar-1989/sat-button.git"
   },
   "keywords": [
 	"sat",
